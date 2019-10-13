@@ -1,1 +1,1 @@
-# osu--player-voting-bot
+# osu-voting-bot
