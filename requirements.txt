@@ -1,0 +1,6 @@
+discord.py
+pymongo
+pyyaml
+psutil
+requests
+gitpython

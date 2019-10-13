@@ -1,0 +1,9 @@
+*.json
+*.yaml
+*.pyc
+*.log
+assets/temp/
+__pycache__/
+.vscode/
+venv/
+.idea/

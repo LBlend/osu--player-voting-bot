@@ -1,0 +1,21 @@
+# Bot settings
+bot:
+  token:
+  prefix: o!
+  presence: o!help
+  presence_activity: playing
+
+# Database
+database:
+
+# Emoji
+emoji:
+  online: <:online:516328785910431754>
+  idle: <:idle:516328783347843082>
+  dnd: <:dnd:516328782844395579>
+  offline: <:offline:516328785407246356>
+
+# Misc
+misc:
+  website: https://lblend.moe/
+  source_code: https://github.com/LBlend/osu-vote-bot
